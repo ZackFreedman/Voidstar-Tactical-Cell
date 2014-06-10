@@ -6,7 +6,7 @@ I recommend orienting the print with the USB clip facing upwards. Printing it bo
 
 The Tactical Cells I ship to buyers are printed with 0.20mm layer height, 20% infill, 2 shells, supports, no rafts, filament fan on, with PLA on blue tape soaked with denatured alcohol.
 
-To complete the build, slot in a commonly-available [http://www.amazon.com/2600mAh-PowerBank-Keychain-Battery-Charger/dp/B00FFMA12U/ref=sr_1_1?ie=UTF8&qid=1402430206&sr=8-1&keywords=powerbank](2600mAh PowerBank) and add a [http://www.amazon.com/Vktech-Micro-Retractable-Charger-Cable/dp/B00DQMHM14/ref=sr_1_3?ie=UTF8&qid=1402430261&sr=8-3&keywords=retractable+micro-usb](retractable micro-USB cable).
+To complete the build, slot in a commonly-available [2600mAh PowerBank](http://www.amazon.com/2600mAh-PowerBank-Keychain-Battery-Charger/dp/B00FFMA12U/ref=sr_1_1?ie=UTF8&qid=1402430206&sr=8-1&keywords=powerbank) and add a [retractable micro-USB cable](http://www.amazon.com/Vktech-Micro-Retractable-Charger-Cable/dp/B00DQMHM14/ref=sr_1_3?ie=UTF8&qid=1402430261&sr=8-3&keywords=retractable+micro-usb).
 
 These files are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
 
